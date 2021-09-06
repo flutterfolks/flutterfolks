@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @flutterfolks
 - 👀 I’m interested in doing beautiful Flutter animations
 - 💞️ I’m looking to collaborate on Flutter community
-- 📫 How to reach me ...
+- 📫 Reach me at flutterfolks@gmaill.com
